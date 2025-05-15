@@ -1,8 +1,7 @@
 <h1>Hi, I'm Robin! <br/><a href="https://github.com/rwilkerson27">ServiceNow Administrator & Developer </a>, <a href="https://www.linkedin.com/in/robinwilkerson/">Certified Scrum Master</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/techtechrobin
 [linkedin]: https://www.linkedin.com/in/robinwilkerson/
 
 <!--
